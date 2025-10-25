@@ -18,6 +18,12 @@ This project is a **Starbucks landing page**, created as a **Front-End practice*
 - User experience  
 - Visual elements integration (colors, images, typography)
 
+## 🌐 Visualização Online | Live Preview
+
+🚀 [Visualizar o site no GitHub Pages](https://anaelx77.github.io/starbucks-landing-page/)
+🚀 [View the website on GitHub Pages](https://anaelx77.github.io/starbucks-landing-page/)
+
+
 ---
 
 ### 🛠 Tecnologias / Technologies
